@@ -4,6 +4,8 @@
 
 <script>
 // created at 2023-03-31
+import Axios from "axios";
+
 export default {
   name: "App",
 
